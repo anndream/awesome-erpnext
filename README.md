@@ -15,3 +15,4 @@ Documentation
 - [Frappe Installation on Mac OSX High Seirra (Issue with site creation ](https://discuss.erpnext.com/t/frappe-installation-on-mac-osx-high-seirra-issue-with-site-creation/29213) A guide for install erpnext Mac OSX High Seirra.
 
 - [Forum](https://discuss.erpnext.com/) Discuss ERPNext .
+- [Getting Started with ERPNext](https://erpnext.org/get-started) ERPNext is Python based web application which runs on MariaDB. There are many ways to get started.
